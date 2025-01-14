@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Primes",
+            "request": "launch",
+            "mainClass": "lecture1.Primes",
+            "projectName": "dave3606_e7f79f60"
+        },
+        {
+            "type": "java",
             "name": "Hello_world",
             "request": "launch",
             "mainClass": "lecture1.Hello_world",
