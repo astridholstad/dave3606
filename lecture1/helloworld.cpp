@@ -1,8 +1,12 @@
 #include <iostream>
 
-using namespace std;
+using namespace std; 
+
 
 int main(){
-    cout <<"hello world!" <<endl;
+    cout << "Hello world!" << endl;
     return 0;
 }
+// g++ lecture1/helloworld.cpp
+// g++ lecture1/helloworld.cpp -o helloworld
+//  ./helloworld
